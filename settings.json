@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Parryschbnabe.aternos.me:34045",
+    "port": 34045,
     "version": "",
     "try-creative": false
   },
